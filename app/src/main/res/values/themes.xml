@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Contextmenu" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/teal_200</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/pink</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimor/colorPrimary</item>>
+         <item name="colorPrimaryDark">@color/cnt">@color/color>#ffnt</style></resources>item>     <item name="android:textColor">#ff000f</item>item>     <item name="android:textColor">#ff000f</item>item></item>
+    </style>
+    <style name="CustomTextMenu" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+    <item name="android:textColor">@android:color/holo_red_dark</item>
+    </style>
+</resources>
